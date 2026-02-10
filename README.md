@@ -1,5 +1,5 @@
 # Alex Grubb
-Welcome to my personal portfolio! I am currently a Master's cyber security student at Keele University expecting to graduate June 2026!
+Welcome to my personal portfolio! I am currently a Master's Cyber Security student at Keele University expecting to graduate June 2026!
 
 ## About Me
 I have some light experience with Linux, Python and SQL that I am continuing to develop.
