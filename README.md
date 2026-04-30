@@ -7,11 +7,13 @@ I am developing practical skills in cybersecurity through hands-on labs and proj
 
 ## Projects
 - **Cyber Security Home Lab – Network Scanning & Service Enumeration**
+  - [View Project](projects/network-scanning-lab)
   - Built a virtual lab using Kali Linux and Windows
   - Performed network reconnaissance using Nmap
   - Identified exposed services (SMB, NetBIOS, MSRPC) and analysed attack surface
 
 - **SOC Simulation – Log Analysis & Incident Detection**
+  - [View Project](projects/soc-log-analysis)
   - Analysed Windows Event Logs to detect failed login attempts (Event ID 4625)
   - Simulated brute force behaviour and identified suspicious patterns
   - Explored basic mitigation strategies such as account lockout policies
