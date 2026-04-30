@@ -20,8 +20,8 @@ Performed a full TCP scan using Nmap to identify open ports and running services
 ```bash
 nmap -sV -A 192.168.239.129
 ```
--sV - detects service versions
--A - enables OS detection, version detection, and script scanning
+- -sV - detects service versions
+- -A - enables OS detection, version detection, and script scanning
 
 ![Nmap Scan](nmap-scan.png)
 
