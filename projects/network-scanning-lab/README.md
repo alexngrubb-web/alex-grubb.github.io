@@ -17,7 +17,7 @@ Built a virtual lab environment using Kali Linux and Windows to simulate a small
 A full TCP scan was performed using Nmap to identify open ports and running services.
 
 ### Command Used
-``bash
+```bash
 nmap -sV -A 192.168.239.129
 
 ![Nmap Scan](nmap-scan.png)
