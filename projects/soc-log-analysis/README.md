@@ -41,7 +41,7 @@ Key information identified:
 
 ## Key Findings
 
-- Repeated failed login attempts detected over a short timeframe  
+- Repeated failed login attempts detected, indicating potential brute force activity  
 - Consistent targeting of a specific account suggests brute force behaviour  
 - Logs provide sufficient detail to identify attack patterns and timing  
 - Demonstrates how authentication logs can be used for threat detection  
