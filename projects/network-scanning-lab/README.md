@@ -22,6 +22,7 @@ nmap -sV -A 192.168.239.129
 ```
 -sV - detects service versions
 -A - enables OS detection, version detection, and script scanning
+
 ![Nmap Scan](nmap-scan.png)
 
 ---
