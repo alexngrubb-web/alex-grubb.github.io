@@ -7,7 +7,7 @@ I am developing practical skills in cybersecurity through hands-on labs and proj
 
 ## Projects
 - **Cyber Security Home Lab – Network Scanning & Service Enumeration**
-  - [View Project](projects/network-scanning-lab)
+- [View Project](projects/network-scanning-lab)
   - Built a virtual lab using Kali Linux and Windows
   - Performed network reconnaissance using Nmap
   - Identified exposed services (SMB, NetBIOS, MSRPC) and analysed attack surface
