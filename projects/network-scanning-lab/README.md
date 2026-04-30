@@ -1,7 +1,7 @@
 # Network Scanning Lab
 
 ## Overview
-This project involved building a virtual lab environment using Kali Linux and Windows to simulate a small network. The goal was to perform network reconnaissance and identify exposed services.
+Built a virtual lab environment using Kali Linux and Windows to simulate a small network and perform network reconnaissance.
 
 ## Lab Setup
 - Kali Linux attacker machine
@@ -15,6 +15,10 @@ This project involved building a virtual lab environment using Kali Linux and Wi
 ## Nmap Scan Results
 
 A full TCP scan was performed using Nmap to identify open ports and running services.
+
+### Command Used
+``bash
+nmap -sV -A 192.168.239.129
 
 ![Nmap Scan](nmap-scan.png)
 
