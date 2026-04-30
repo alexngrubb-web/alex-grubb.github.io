@@ -1,6 +1,6 @@
 # Alex Grubb
 
-Welcome to my cybersecurity portfolio. I am currently a Master's Cyber Security student at Keele University, expected to graduate in 2027.
+I am currently a Master's Cyber Security student at Keele University, expected to graduate in 2027. This is a cybersecurity portfolio showcasing hands-on labs focused on network reconnaissance and security monitoring. Projects demonstrate practical experience with tools such as Nmap and Windows Event Viewer, with a focus on identifying vulnerabilities and detecting suspicious activity.
 
 ## About Me
 I am developing practical skills in cybersecurity through hands-on labs and projects, with a particular interest in SOC and defensive security. My work focuses on understanding network behaviour, identifying vulnerabilities, and analysing system logs to detect suspicious activity.
