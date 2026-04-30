@@ -43,4 +43,4 @@ A full TCP scan was performed using Nmap to identify open ports and running serv
 - Nmap
 - Kali Linux
 - Windows 10
-- VMware
+- VMware Workstation Pro
