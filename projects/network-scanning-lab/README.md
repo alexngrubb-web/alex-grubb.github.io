@@ -19,7 +19,7 @@ A full TCP scan was performed using Nmap to identify open ports and running serv
 ### Command Used
 ```bash
 nmap -sV -A 192.168.239.129
-
+```
 ![Nmap Scan](nmap-scan.png)
 
 ---
