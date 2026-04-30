@@ -14,12 +14,14 @@ Built a virtual lab environment using Kali Linux and Windows to simulate a small
 
 ## Nmap Scan Results
 
-A full TCP scan was performed using Nmap to identify open ports and running services.
+Performed a full TCP scan using Nmap to identify open ports and running services.
 
 ### Command Used
 ```bash
 nmap -sV -A 192.168.239.129
 ```
+-sV - detects service versions
+-A - enables OS detection, version detection, and script scanning
 ![Nmap Scan](nmap-scan.png)
 
 ---
@@ -27,7 +29,7 @@ nmap -sV -A 192.168.239.129
 ## Key Findings
 
 - Open ports identified: 135 (MSRPC), 139 (NetBIOS), 445 (SMB), 5357 (HTTP)
-- SMB (port 445) exposed, commonly targeted in cyber attacks
+- SMB (port 445) exposed, representing a common attack vector for lateral movement and exploitation in Windows environments
 - NetBIOS and RPC services indicate typical Windows network behaviour
 - Demonstrates how misconfiguration can increase attack surface
 
