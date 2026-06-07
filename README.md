@@ -25,8 +25,9 @@ I am developing practical skills in cybersecurity through hands-on labs and proj
 - Networking fundamentals
 - SIEM basics
 - AWS fundamentals
-- CompTIA A+ (Certified)
-- Security+ (in progress)
+- CompTIA A+
+- Network+
+- Security+ 
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/alexgrubb
